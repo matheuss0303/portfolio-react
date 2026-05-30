@@ -1,16 +1,73 @@
-# React + Vite
+# 👨‍💻 Matheus Soares da Silva
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Desenvolvedor Full Stack em Formação
 
-Currently, two official plugins are available:
+Olá! Sou estudante de **Sistemas para Internet** e apaixonado por tecnologia, desenvolvimento web e criação de soluções digitais.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas para Front-end e Back-end, sempre buscando evolução profissional e novos desafios.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Tecnologias
 
-## Expanding the ESLint configuration
+### Front-end
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* HTML5
+* CSS3
+* JavaScript
+* React
+
+### Back-end
+
+* Java
+* Spring Boot
+
+### Banco de Dados
+
+* MySQL
+
+### Ferramentas
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 💼 Serviços
+
+* Desenvolvimento de Sites Responsivos
+* Aplicações React
+* APIs REST com Java e Spring Boot
+* Suporte Técnico e Service Desk
+
+---
+
+## 🌐 Portfólio
+
+🔗 https://matheussoaresdev.netlify.app
+
+---
+
+## 📫 Contato
+
+📧 Email: [matheusoaress2020@gmail.com](mailto:matheusoaress2020@gmail.com)
+
+📷 Instagram:
+https://www.instagram.com/matheussoares.dev/
+
+🐙 GitHub:
+https://github.com/matheuss0303
+
+💬 WhatsApp:
+https://wa.me/5583996306814
+
+---
+
+## 🎯 Objetivo
+
+Busco oportunidades na área de Tecnologia da Informação para aplicar meus conhecimentos, adquirir experiência prática e contribuir para projetos inovadores.
+
+---
+
+⭐ Obrigado por visitar meu perfil!
